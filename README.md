@@ -1,2 +1,2 @@
-# Implementing-tSNE-from-scratch
+# Implementation of tSNE
 Implemented tSNE from scratch
